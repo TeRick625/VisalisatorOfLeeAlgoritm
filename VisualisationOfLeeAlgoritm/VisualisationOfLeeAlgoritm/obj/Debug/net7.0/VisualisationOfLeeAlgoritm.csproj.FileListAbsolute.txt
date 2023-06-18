@@ -1,0 +1,15 @@
+C:\Users\Домашний\source\repos\VisualisationOfLeeAlgoritm\VisualisationOfLeeAlgoritm\bin\Debug\net7.0\VisualisationOfLeeAlgoritm.exe
+C:\Users\Домашний\source\repos\VisualisationOfLeeAlgoritm\VisualisationOfLeeAlgoritm\bin\Debug\net7.0\VisualisationOfLeeAlgoritm.deps.json
+C:\Users\Домашний\source\repos\VisualisationOfLeeAlgoritm\VisualisationOfLeeAlgoritm\bin\Debug\net7.0\VisualisationOfLeeAlgoritm.runtimeconfig.json
+C:\Users\Домашний\source\repos\VisualisationOfLeeAlgoritm\VisualisationOfLeeAlgoritm\bin\Debug\net7.0\VisualisationOfLeeAlgoritm.dll
+C:\Users\Домашний\source\repos\VisualisationOfLeeAlgoritm\VisualisationOfLeeAlgoritm\bin\Debug\net7.0\VisualisationOfLeeAlgoritm.pdb
+C:\Users\Домашний\source\repos\VisualisationOfLeeAlgoritm\VisualisationOfLeeAlgoritm\obj\Debug\net7.0\VisualisationOfLeeAlgoritm.csproj.AssemblyReference.cache
+C:\Users\Домашний\source\repos\VisualisationOfLeeAlgoritm\VisualisationOfLeeAlgoritm\obj\Debug\net7.0\VisualisationOfLeeAlgoritm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Домашний\source\repos\VisualisationOfLeeAlgoritm\VisualisationOfLeeAlgoritm\obj\Debug\net7.0\VisualisationOfLeeAlgoritm.AssemblyInfoInputs.cache
+C:\Users\Домашний\source\repos\VisualisationOfLeeAlgoritm\VisualisationOfLeeAlgoritm\obj\Debug\net7.0\VisualisationOfLeeAlgoritm.AssemblyInfo.cs
+C:\Users\Домашний\source\repos\VisualisationOfLeeAlgoritm\VisualisationOfLeeAlgoritm\obj\Debug\net7.0\VisualisationOfLeeAlgoritm.csproj.CoreCompileInputs.cache
+C:\Users\Домашний\source\repos\VisualisationOfLeeAlgoritm\VisualisationOfLeeAlgoritm\obj\Debug\net7.0\VisualisationOfLeeAlgoritm.dll
+C:\Users\Домашний\source\repos\VisualisationOfLeeAlgoritm\VisualisationOfLeeAlgoritm\obj\Debug\net7.0\refint\VisualisationOfLeeAlgoritm.dll
+C:\Users\Домашний\source\repos\VisualisationOfLeeAlgoritm\VisualisationOfLeeAlgoritm\obj\Debug\net7.0\VisualisationOfLeeAlgoritm.pdb
+C:\Users\Домашний\source\repos\VisualisationOfLeeAlgoritm\VisualisationOfLeeAlgoritm\obj\Debug\net7.0\VisualisationOfLeeAlgoritm.genruntimeconfig.cache
+C:\Users\Домашний\source\repos\VisualisationOfLeeAlgoritm\VisualisationOfLeeAlgoritm\obj\Debug\net7.0\ref\VisualisationOfLeeAlgoritm.dll
